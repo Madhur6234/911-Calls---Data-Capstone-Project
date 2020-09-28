@@ -1,6 +1,6 @@
 # 911-Calls---Data-Capstone-Project
 
-The purpose of this project is to analyze and visualize some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert).
+The purpose of this project is to analyze and visualize some 911 calls data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert).
 
 Libraries used:
 * For processing data:
