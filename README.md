@@ -3,13 +3,12 @@
 The purpose of this project is to analyze and visualize some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert).
 
 Libraries used:
-*For processing data:
-    *numpy
-    *pandas
-*For visualizing data:
-    *matplotlib
-    *seaborn
-
+* For processing data:
+    * numpy
+    * pandas
+* For visualizing data:
+    * matplotlib
+    * seaborn
 
 The data contains the following fields:
 * lat : String variable, Latitude
