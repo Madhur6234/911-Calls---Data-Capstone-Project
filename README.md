@@ -9,6 +9,7 @@ Libraries used:
 * For visualizing data:
     * matplotlib
     * seaborn
+    * pandas visualization
 
 The data contains the following fields:
 * lat : String variable, Latitude
